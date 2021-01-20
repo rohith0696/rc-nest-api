@@ -28,8 +28,8 @@ This Repo is about the nest framework.
 
 ## Links
 
-Source Repo: https://github.com/rohith0696/rc-nest-api
-Hosted on Heroku: https://rc-nest-api.herokuapp.com/
+- Source Repo: https://github.com/rohith0696/rc-nest-api
+- Hosted on Heroku: https://rc-nest-api.herokuapp.com/
 
 ## Installation
 
